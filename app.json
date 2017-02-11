@@ -1,0 +1,11 @@
+{
+    "pages":[
+        "pages/list/list",
+        "pages/page1/page1"
+    ],
+     "networkTimeout": {
+    "request": 100000,
+    "downloadFile": 100000
+  }
+
+}
